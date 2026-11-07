@@ -1,0 +1,11 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Enable Hover Dock",
+        "description": "Add a customizable, auto-hiding navigation dock to the bottom of Home Assistant."
+      }
+    },
+    "abort": {"already_configured": "Hover Dock is already installed."}
+  }
+}
